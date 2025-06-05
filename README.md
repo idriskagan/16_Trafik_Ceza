@@ -1,1 +1,2 @@
-[ceza2 drawio](https://github.com/user-attachments/assets/ae980706-ec3c-4ec1-9e32-a352cb17d0a2)
+![ceza2 drawio](https://github.com/user-attachments/assets/e870de8f-5660-49f8-abea-3993c83c5502)
+Projemde geliştirdğim sınıflarla ilgili UML diyagramı
