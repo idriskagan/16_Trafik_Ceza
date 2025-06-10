@@ -70,7 +70,7 @@ Bu proje, [Proje Adı] dersi kapsamında geliştirilen **Basit Trafik Cezası Y�
 
 Aşağıda projeye ait sınıf ilişkilerini gösteren UML diyagramı yer almaktadır:
 
-![UML Diyagramı]![ceza2 drawio](https://github.com/user-attachments/assets/5545545b-3e37-4ab2-a477-7272c5ed2149)
+[ceza2 drawio](https://github.com/user-attachments/assets/5545545b-3e37-4ab2-a477-7272c5ed2149)
 
 g)
 
