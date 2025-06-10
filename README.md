@@ -70,10 +70,8 @@ Bu proje, Nesne Tabanlı Programlama dersi kapsamında geliştirilen **Basit Tra
 
 Aşağıda projeye ait sınıf ilişkilerini gösteren UML diyagramı yer almaktadır:
 
-(images/uml_diyagram![ceza2 drawio](https://github.com/user-attachments/assets/29a7762e-e0bc-4a5f-bad9-3575ed19898f)
+![ceza2 drawio](https://github.com/user-attachments/assets/29a7762e-e0bc-4a5f-bad9-3575ed19898f)
 i.png)
-
-> `images/uml_diyagrami.png` yoluna kendi UML diyagramı resmini yerleştir. Örneğin draw.io ya da Lucidchart üzerinden çizip kaydedebilirsin.
 
 ---
 
