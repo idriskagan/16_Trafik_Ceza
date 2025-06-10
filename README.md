@@ -1,6 +1,6 @@
 # 🚔 Trafik Cezası Yönetim Sistemi
 
-Bu proje, [Proje Adı] dersi kapsamında geliştirilen **Basit Trafik Cezası Yönetimi** sistemidir. Windows Forms ile geliştirilen bu sistem sayesinde sürücülere ait trafik cezaları kolayca işlenebilir, ödemeler takip edilebilir ve raporlamalar yapılabilir.
+Bu proje, Nesne Tabanlı Programlama dersi kapsamında geliştirilen **Basit Trafik Cezası Yönetimi** sistemidir. Windows Forms ile geliştirilen bu sistem sayesinde sürücülere ait trafik cezaları kolayca işlenebilir, ödemeler takip edilebilir ve raporlamalar yapılabilir.
 
 ---
 
@@ -70,11 +70,10 @@ Bu proje, [Proje Adı] dersi kapsamında geliştirilen **Basit Trafik Cezası Y�
 
 Aşağıda projeye ait sınıf ilişkilerini gösteren UML diyagramı yer almaktadır:
 
-[ceza2 drawio](https://github.com/user-attachments/assets/5545545b-3e37-4ab2-a477-7272c5ed2149)
 
 g)
 
-> `images/uml_diyagrami.png` yoluna kendi UML diyagramı resmini yerleştir. Örneğin draw.io ya da Lucidchart üzerinden çizip kaydedebilirsin.
+> `[ceza2 drawio](https://github.com/user-attachments/assets/5545545b-3e37-4ab2-a477-7272c5ed2149)` yoluna kendi UML diyagramı resmini yerleştir. Örneğin draw.io ya da Lucidchart üzerinden çizip kaydedebilirsin.
 
 ---
 
