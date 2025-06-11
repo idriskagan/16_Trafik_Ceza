@@ -33,3 +33,4 @@ C:\Users\demir\İlerleyen_proje\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsAp
 C:\Users\demir\İlerleyen_proje\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
 C:\Users\demir\İlerleyen_proje\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
 C:\Users\demir\İlerleyen_proje\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.Properties.Resources.resources
+C:\Users\demir\İlerleyen_proje\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.sourcelink.json
